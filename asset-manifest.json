@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Sample/static/css/main.0fdff4c7.chunk.css",
+    "main.js": "/Sample/static/js/main.3547e1d4.chunk.js",
+    "main.js.map": "/Sample/static/js/main.3547e1d4.chunk.js.map",
+    "runtime-main.js": "/Sample/static/js/runtime-main.e2934788.js",
+    "runtime-main.js.map": "/Sample/static/js/runtime-main.e2934788.js.map",
+    "static/js/2.3a57a53c.chunk.js": "/Sample/static/js/2.3a57a53c.chunk.js",
+    "static/js/2.3a57a53c.chunk.js.map": "/Sample/static/js/2.3a57a53c.chunk.js.map",
+    "static/js/3.b6a7a0c0.chunk.js": "/Sample/static/js/3.b6a7a0c0.chunk.js",
+    "static/js/3.b6a7a0c0.chunk.js.map": "/Sample/static/js/3.b6a7a0c0.chunk.js.map",
+    "index.html": "/Sample/index.html",
+    "static/css/main.0fdff4c7.chunk.css.map": "/Sample/static/css/main.0fdff4c7.chunk.css.map",
+    "static/js/2.3a57a53c.chunk.js.LICENSE.txt": "/Sample/static/js/2.3a57a53c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Sample/static/media/bricks.56deb30f.png",
+    "static/media/heart.a38cb33a.png": "/Sample/static/media/heart.a38cb33a.png",
+    "static/media/player-stand.c2b5c9ac.png": "/Sample/static/media/player-stand.c2b5c9ac.png",
+    "static/media/player-stand2.3366bd42.png": "/Sample/static/media/player-stand2.3366bd42.png",
+    "static/media/sprite.29798332.png": "/Sample/static/media/sprite.29798332.png",
+    "static/media/sprite2.bf345748.png": "/Sample/static/media/sprite2.bf345748.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2934788.js",
+    "static/js/2.3a57a53c.chunk.js",
+    "static/css/main.0fdff4c7.chunk.css",
+    "static/js/main.3547e1d4.chunk.js"
+  ]
+}
